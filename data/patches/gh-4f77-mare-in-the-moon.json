@@ -1,0 +1,76 @@
+{
+	"id": -1,
+	"name": "Mare in the Moon",
+	"description": "A depiction of Nightmare Moon from the show My Little Pony: Friendship is Magic while banished in the moon. Styled in theme with the Italian flag",
+	"links": {},
+	"path": {
+		"254": [
+			[
+				65,
+				100
+			],
+			[
+				71,
+				87
+			],
+			[
+				79,
+				98
+			],
+			[
+				78,
+				116
+			],
+			[
+				72,
+				122
+			],
+			[
+				60,
+				120
+			],
+			[
+				54,
+				112
+			],
+			[
+				54,
+				99
+			],
+			[
+				58,
+				88
+			],
+			[
+				67,
+				85
+			],
+			[
+				72,
+				86
+			],
+			[
+				77,
+				91
+			],
+			[
+				80,
+				98
+			],
+			[
+				79,
+				114
+			],
+			[
+				81,
+				107
+			]
+		]
+	},
+	"center": {
+		"254": [
+			66,
+			111
+		]
+	}
+}
